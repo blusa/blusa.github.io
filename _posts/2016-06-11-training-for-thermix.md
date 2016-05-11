@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Training"
+title:  "Training a new model (thermix)"
 date:   2016-05-11 10:37:24 -0300
 categories: thermix
 ---
-## Training for thermix
 In this post we will explain with details the whole process for training a new model for the thermix platform.
 
 ### 1. Collect videos
