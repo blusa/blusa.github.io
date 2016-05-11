@@ -13,7 +13,7 @@ There's an app that makes data collection for thermix easier. Download and insta
 
 The app allows the user to record videos normally, and automatically generates and sends 3 videos (uses FLIR One lepton and VGA sensors):
 - radiometric infrared
-- "lava palette" infrared
+- lava palette infrared
 - RGB
 
 __1.2 Data structure__
