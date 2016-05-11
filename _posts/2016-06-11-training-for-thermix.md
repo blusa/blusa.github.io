@@ -12,6 +12,7 @@ __1.1 Data collection tool__
 There's an app that makes data collection for thermix easier. Download and install [this thermix branch](https://github.com/gui2/verzus-social/tree/fede-dev-thermal-data-collection).
 
 The app allows the user to record videos normally, and automatically generates and sends 3 videos (uses FLIR One lepton and VGA sensors):
+
 - radiometric infrared
 - lava palette infrared
 - RGB
@@ -34,6 +35,7 @@ So far, we support this classes:
 | __close up__      |4|
 | __outdoor__       |5|
 | __indoor__        |6|
+
 
 If you want to record data for a new class, just create a group following the structure detailed in __1.2 Data Structure__.
 
