@@ -17,10 +17,14 @@ The app allows the user to record videos normally, and automatically generates a
 - lava palette infrared
 - RGB
 
-  __Video properties__
+__Data Collection Users__
+  - datacollection : d@d.com
+  - validation: v@v.com
+
+__Video properties__
 
   The app supports 15 seconds max. and videos have no sound.
-  
+
 
 __1.2 Data structure__
 
