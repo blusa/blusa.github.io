@@ -18,6 +18,7 @@ The app allows the user to record videos normally, and automatically generates a
 - RGB
 
 __Data Collection Users__
+
   - datacollection : d@d.com
   - validation: v@v.com
 
